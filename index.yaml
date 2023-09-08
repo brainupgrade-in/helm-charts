@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-08T15:33:31.766464117+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 23be7a1e05ea4abb972770d509934813a0525f85b5912e8fdbc04703c4e2318a
+    name: hello
+    type: application
+    urls:
+    - https://brainupgrade-in.github.io/helm-charts/hello-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-09-08T15:33:31.765665439+05:30"
